@@ -1,0 +1,1559 @@
+{
+  "100i": {
+    "name": "100i",
+    "size": "Small",
+    "role": "Starter;Touring",
+    "cargo": "2",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ORIG"
+  },
+  "125a": {
+    "name": "125a",
+    "size": "Small",
+    "role": "Starter;Light Fighter",
+    "cargo": "2",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ORIG"
+  },
+  "135c": {
+    "name": "135c",
+    "size": "Small",
+    "role": "Starter;Light Freight",
+    "cargo": "6",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ORIG"
+  },
+  "300i": {
+    "name": "300i",
+    "size": "Small",
+    "role": "Touring",
+    "cargo": "8",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ORIG"
+  },
+  "315p": {
+    "name": "315p",
+    "size": "Small",
+    "role": "Pathfinder",
+    "cargo": "12",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ORIG"
+  },
+  "325a": {
+    "name": "325a",
+    "size": "Small",
+    "role": "Interdiction interception",
+    "cargo": "4",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ORIG"
+  },
+  "350r": {
+    "name": "350r",
+    "size": "Small",
+    "role": "Racing",
+    "cargo": "4",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ORIG"
+  },
+  "400i": {
+    "name": "400i",
+    "size": "Large",
+    "role": "Pathfinder",
+    "cargo": "42",
+    "crewMin": "1",
+    "crewMax": "3",
+    "manufacturer": "ORIG"
+  },
+  "600i Executive-Edition": {
+    "name": "600i Executive-Edition",
+    "size": "Large",
+    "role": "Expedition",
+    "cargo": "40",
+    "crewMin": "2",
+    "crewMax": "5",
+    "manufacturer": "ORIG"
+  },
+  "600i Explorer": {
+    "name": "600i Explorer",
+    "size": "Large",
+    "role": "Expedition",
+    "cargo": "40",
+    "crewMin": "2",
+    "crewMax": "5",
+    "manufacturer": "ORIG"
+  },
+  "600i Touring": {
+    "name": "600i Touring",
+    "size": "Large",
+    "role": "Touring",
+    "cargo": "16",
+    "crewMin": "3",
+    "crewMax": "5",
+    "manufacturer": "ORIG"
+  },
+  "85X": {
+    "name": "85X",
+    "size": "Small",
+    "role": "Touring",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "ORIG"
+  },
+  "890 Jump": {
+    "name": "890 Jump",
+    "size": "Capital",
+    "role": "Touring",
+    "cargo": "484",
+    "crewMin": "3",
+    "crewMax": "5",
+    "manufacturer": "ORIG"
+  },
+  "A2 Hercules Starlifter": {
+    "name": "A2 Hercules Starlifter",
+    "size": "Large",
+    "role": "Transport Gunship",
+    "cargo": "216",
+    "crewMin": "",
+    "crewMax": "8",
+    "manufacturer": "CRSD"
+  },
+  "Apollo Medivac": {
+    "name": "Apollo Medivac",
+    "size": "Large",
+    "role": "Support - Medical",
+    "cargo": "28",
+    "crewMin": "",
+    "crewMax": "2",
+    "manufacturer": "RSI"
+  },
+  "Apollo Triage": {
+    "name": "Apollo Triage",
+    "size": "Large",
+    "role": "Support - Medical",
+    "cargo": "28",
+    "crewMin": "",
+    "crewMax": "2",
+    "manufacturer": "RSI"
+  },
+  "Ares Star Fighter Inferno": {
+    "name": "Ares Star Fighter Inferno",
+    "size": "Medium",
+    "role": "Heavy Combat Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "CRSD"
+  },
+  "Ares Star Fighter Ion": {
+    "name": "Ares Star Fighter Ion",
+    "size": "Medium",
+    "role": "Heavy Combat Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "CRSD"
+  },
+  "Arrow": {
+    "name": "Arrow",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "Aurora CL": {
+    "name": "Aurora CL",
+    "size": "Light Freight",
+    "role": "Small",
+    "cargo": "6",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "RSI"
+  },
+  "Aurora ES": {
+    "name": "Aurora ES",
+    "size": "Small",
+    "role": "Starter;Pathfinder",
+    "cargo": "3",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "RSI"
+  },
+  "Aurora LN": {
+    "name": "Aurora LN",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "3",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "RSI"
+  },
+  "Aurora LX": {
+    "name": "Aurora LX",
+    "size": "Small",
+    "role": "Pathfinder",
+    "cargo": "3",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "RSI"
+  },
+  "Aurora MR": {
+    "name": "Aurora MR",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "3",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "RSI"
+  },
+  "Avenger Stalker": {
+    "name": "Avenger Stalker",
+    "size": "Small",
+    "role": "Interdiction",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Avenger Titan": {
+    "name": "Avenger Titan",
+    "size": "Small",
+    "role": "Light Freight",
+    "cargo": "8",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Avenger Titan Renegade": {
+    "name": "Avenger Titan Renegade",
+    "size": "Small",
+    "role": "Light Freight",
+    "cargo": "8",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Avenger Warlock": {
+    "name": "Avenger Warlock",
+    "size": "Small",
+    "role": "Interdiction",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Bengal": {
+    "name": "Bengal",
+    "size": "Capital",
+    "role": "Fleet carrier",
+    "cargo": "",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "RSI"
+  },
+  "Blade": {
+    "name": "Blade",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ESRA"
+  },
+  "Blade (vanduul)": {
+    "name": "Blade (vanduul)",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "VNCL"
+  },
+  "Buccaneer": {
+    "name": "Buccaneer",
+    "size": "Small",
+    "role": "Interdiction",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "DRAK"
+  },
+  "C1 Spirit": {
+    "name": "C1 Spirit",
+    "size": "Medium",
+    "role": "Medium Freight",
+    "cargo": "64",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "CRSD"
+  },
+  "C2 Hercules Starlifter": {
+    "name": "C2 Hercules Starlifter",
+    "size": "Large",
+    "role": "Transport",
+    "cargo": "696",
+    "crewMin": "",
+    "crewMax": "2",
+    "manufacturer": "CRSD"
+  },
+  "C8 Pisces": {
+    "name": "C8 Pisces",
+    "size": "Small",
+    "role": "Exploration",
+    "cargo": "4",
+    "crewMin": "1",
+    "crewMax": "3",
+    "manufacturer": "ANVL"
+  },
+  "C8R Pisces Rescue": {
+    "name": "C8R Pisces Rescue",
+    "size": "Small",
+    "role": "Medical",
+    "cargo": "",
+    "crewMin": "1",
+    "crewMax": "3",
+    "manufacturer": "ANVL"
+  },
+  "C8X Pisces Expedition": {
+    "name": "C8X Pisces Expedition",
+    "size": "Small",
+    "role": "Exploration",
+    "cargo": "4",
+    "crewMin": "1",
+    "crewMax": "3",
+    "manufacturer": "ANVL"
+  },
+  "Carrack": {
+    "name": "Carrack",
+    "size": "Large",
+    "role": "Expedition",
+    "cargo": "456",
+    "crewMin": "4",
+    "crewMax": "6",
+    "manufacturer": "ANVL"
+  },
+  "Carrack Best in Show 2950 Edition": {
+    "name": "Carrack Best in Show 2950 Edition",
+    "size": "Large",
+    "role": "Expedition",
+    "cargo": "456",
+    "crewMin": "4",
+    "crewMax": "6",
+    "manufacturer": "ANVL"
+  },
+  "Carrack Expedition": {
+    "name": "Carrack Expedition",
+    "size": "Large",
+    "role": "Expedition",
+    "cargo": "456",
+    "crewMin": "4",
+    "crewMax": "6",
+    "manufacturer": "ANVL"
+  },
+  "Caterpillar": {
+    "name": "Caterpillar",
+    "size": "Large",
+    "role": "Transport",
+    "cargo": "576",
+    "crewMin": "2",
+    "crewMax": "4",
+    "manufacturer": "DRAK"
+  },
+  "Caterpillar Best In Show Edition": {
+    "name": "Caterpillar Best In Show Edition",
+    "size": "Large",
+    "role": "Transport",
+    "cargo": "576",
+    "crewMin": "2",
+    "crewMax": "4",
+    "manufacturer": "DRAK"
+  },
+  "Caterpillar Pirate Edition": {
+    "name": "Caterpillar Pirate Edition",
+    "size": "Large",
+    "role": "Transport",
+    "cargo": "564",
+    "crewMin": "2",
+    "crewMax": "4",
+    "manufacturer": "DRAK"
+  },
+  "Collector": {
+    "name": "Collector",
+    "size": "",
+    "role": "",
+    "cargo": "",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "VNCL"
+  },
+  "Constellation Andromeda": {
+    "name": "Constellation Andromeda",
+    "size": "Large",
+    "role": "Medium Freight;Gunship",
+    "cargo": "96",
+    "crewMin": "3",
+    "crewMax": "4",
+    "manufacturer": "RSI"
+  },
+  "Constellation Aquila": {
+    "name": "Constellation Aquila",
+    "size": "Large",
+    "role": "Expedition",
+    "cargo": "96",
+    "crewMin": "3",
+    "crewMax": "4",
+    "manufacturer": "RSI"
+  },
+  "Constellation Phoenix": {
+    "name": "Constellation Phoenix",
+    "size": "Large",
+    "role": "Touring",
+    "cargo": "96",
+    "crewMin": "3",
+    "crewMax": "4",
+    "manufacturer": "RSI"
+  },
+  "Constellation Phoenix Emerald": {
+    "name": "Constellation Phoenix Emerald",
+    "size": "Large",
+    "role": "Touring",
+    "cargo": "96",
+    "crewMin": "3",
+    "crewMax": "4",
+    "manufacturer": "RSI"
+  },
+  "Constellation Taurus": {
+    "name": "Constellation Taurus",
+    "size": "Large",
+    "role": "Medium Freight",
+    "cargo": "174",
+    "crewMin": "3",
+    "crewMax": "4",
+    "manufacturer": "RSI"
+  },
+  "Corsair": {
+    "name": "Corsair",
+    "size": "Large",
+    "role": "Exploration",
+    "cargo": "72",
+    "crewMin": "",
+    "crewMax": "4",
+    "manufacturer": "DRAK"
+  },
+  "Crucible": {
+    "name": "Crucible",
+    "size": "Large",
+    "role": "Heavy Repair",
+    "cargo": "230",
+    "crewMin": "3",
+    "crewMax": "8",
+    "manufacturer": "ANVL"
+  },
+  "Cutlass Black": {
+    "name": "Cutlass Black",
+    "size": "Medium",
+    "role": "Medium Fighter;Medium Freight",
+    "cargo": "46",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "DRAK"
+  },
+  "Cutlass Black Best In Show Edition": {
+    "name": "Cutlass Black Best In Show Edition",
+    "size": "Medium",
+    "role": "Medium Fighter;Medium Freight",
+    "cargo": "46",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "DRAK"
+  },
+  "Cutlass Black Best in Show 2950 Edition": {
+    "name": "Cutlass Black Best in Show 2950 Edition",
+    "size": "Medium",
+    "role": "Medium Fighter;Medium Freight",
+    "cargo": "46",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "DRAK"
+  },
+  "Cutlass Blue": {
+    "name": "Cutlass Blue",
+    "size": "Medium",
+    "role": "Interdiction",
+    "cargo": "12",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "DRAK"
+  },
+  "Cutlass Red": {
+    "name": "Cutlass Red",
+    "size": "Medium",
+    "role": "Medical",
+    "cargo": "12",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "DRAK"
+  },
+  "Cutter": {
+    "name": "Cutter",
+    "size": "Small",
+    "role": "Light Freight",
+    "cargo": "4",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "DRAK"
+  },
+  "Defender": {
+    "name": "Defender",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "SOUL"
+  },
+  "Driller": {
+    "name": "Driller",
+    "size": "Capital",
+    "role": "Escort and troop carrier",
+    "cargo": "",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "VNCL"
+  },
+  "Eclipse": {
+    "name": "Eclipse",
+    "size": "Medium",
+    "role": "Stealth Bomber",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Eclipse Best in Show 2950 Edition": {
+    "name": "Eclipse Best in Show 2950 Edition",
+    "size": "Medium",
+    "role": "Stealth Bomber",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Endeavor": {
+    "name": "Endeavor",
+    "size": "Capital",
+    "role": "Heavy Science",
+    "cargo": "500",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "MISC"
+  },
+  "Endeavor Discovery": {
+    "name": "Endeavor Discovery",
+    "size": "Capital",
+    "role": "Heavy Science",
+    "cargo": "500",
+    "crewMin": "3",
+    "crewMax": "5",
+    "manufacturer": "MISC"
+  },
+  "Endeavor Hope": {
+    "name": "Endeavor Hope",
+    "size": "Capital",
+    "role": "Heavy Science",
+    "cargo": "500",
+    "crewMin": "3",
+    "crewMax": "5",
+    "manufacturer": "MISC"
+  },
+  "Endeavor Olympic": {
+    "name": "Endeavor Olympic",
+    "size": "Capital",
+    "role": "Heavy Science",
+    "cargo": "500",
+    "crewMin": "3",
+    "crewMax": "5",
+    "manufacturer": "MISC"
+  },
+  "F7A Hornet": {
+    "name": "F7A Hornet",
+    "size": "Small",
+    "role": "Medium Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "F7C Hornet": {
+    "name": "F7C Hornet",
+    "size": "Small",
+    "role": "Medium Fighter",
+    "cargo": "2",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "F7C Hornet Wildfire": {
+    "name": "F7C Hornet Wildfire",
+    "size": "Small",
+    "role": "Medium Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "F7C-M Super Hornet": {
+    "name": "F7C-M Super Hornet",
+    "size": "Small",
+    "role": "Medium Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "ANVL"
+  },
+  "F7C-M Super Hornet Heartseeker": {
+    "name": "F7C-M Super Hornet Heartseeker",
+    "size": "Small",
+    "role": "Medium Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "ANVL"
+  },
+  "F7C-R Hornet Tracker": {
+    "name": "F7C-R Hornet Tracker",
+    "size": "Small",
+    "role": "Pathfinder",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "F7C-S Hornet Ghost": {
+    "name": "F7C-S Hornet Ghost",
+    "size": "Small",
+    "role": "Stealth Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "F8A Lightning": {
+    "name": "F8A Lightning",
+    "size": "Small",
+    "role": "Heavy Fighter",
+    "cargo": "",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "F8C Lightning": {
+    "name": "F8C Lightning",
+    "size": "Small",
+    "role": "Heavy Fighter",
+    "cargo": "",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "F8C Lightning Executive-Edition": {
+    "name": "F8C Lightning Executive-Edition",
+    "size": "Small",
+    "role": "Heavy Fighter",
+    "cargo": "",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "Freelancer": {
+    "name": "Freelancer",
+    "size": "Medium",
+    "role": "Medium Freight",
+    "cargo": "66",
+    "crewMin": "2",
+    "crewMax": "4",
+    "manufacturer": "MISC"
+  },
+  "Freelancer DUR": {
+    "name": "Freelancer DUR",
+    "size": "Medium",
+    "role": "Expedition",
+    "cargo": "36",
+    "crewMin": "2",
+    "crewMax": "4",
+    "manufacturer": "MISC"
+  },
+  "Freelancer MAX": {
+    "name": "Freelancer MAX",
+    "size": "Medium",
+    "role": "Medium Freight",
+    "cargo": "120",
+    "crewMin": "2",
+    "crewMax": "4",
+    "manufacturer": "MISC"
+  },
+  "Freelancer MIS": {
+    "name": "Freelancer MIS",
+    "size": "Medium",
+    "role": "Gunship",
+    "cargo": "36",
+    "crewMin": "2",
+    "crewMax": "4",
+    "manufacturer": "MISC"
+  },
+  "Fury": {
+    "name": "Fury",
+    "size": "Snub",
+    "role": "Snub Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "MISC"
+  },
+  "Genesis Starliner": {
+    "name": "Genesis Starliner",
+    "size": "Large",
+    "role": "Passenger",
+    "cargo": "300",
+    "crewMin": "2",
+    "crewMax": "8",
+    "manufacturer": "CRSD"
+  },
+  "Gladiator": {
+    "name": "Gladiator",
+    "size": "Small",
+    "role": "Bomber",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "ANVL"
+  },
+  "Gladius": {
+    "name": "Gladius",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Gladius Valiant": {
+    "name": "Gladius Valiant",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Glaive": {
+    "name": "Glaive",
+    "size": "Medium",
+    "role": "Medium Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ESRA"
+  },
+  "Hammerhead": {
+    "name": "Hammerhead",
+    "size": "Large",
+    "role": "Heavy Gunship",
+    "cargo": "40",
+    "crewMin": "3",
+    "crewMax": "8",
+    "manufacturer": "AEGS"
+  },
+  "Hammerhead Best In Show Edition": {
+    "name": "Hammerhead Best In Show Edition",
+    "size": "Large",
+    "role": "Heavy Gunship",
+    "cargo": "40",
+    "crewMin": "3",
+    "crewMax": "8",
+    "manufacturer": "AEGS"
+  },
+  "Hawk": {
+    "name": "Hawk",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "Herald": {
+    "name": "Herald",
+    "size": "Small",
+    "role": "Medium Data",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "DRAK"
+  },
+  "Hull A": {
+    "name": "Hull A",
+    "size": "Small",
+    "role": "Medium Freight",
+    "cargo": "64",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "MISC"
+  },
+  "Hull B": {
+    "name": "Hull B",
+    "size": "Medium",
+    "role": "Heavy Freight",
+    "cargo": "384",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "MISC"
+  },
+  "Hull D": {
+    "name": "Hull D",
+    "size": "Capital",
+    "role": "Heavy Freight",
+    "cargo": "20,736",
+    "crewMin": "3",
+    "crewMax": "5",
+    "manufacturer": "MISC"
+  },
+  "Hull E": {
+    "name": "Hull E",
+    "size": "Capital",
+    "role": "Heavy Freight",
+    "cargo": "98,304",
+    "crewMin": "4",
+    "crewMax": "5",
+    "manufacturer": "MISC"
+  },
+  "Hurricane": {
+    "name": "Hurricane",
+    "size": "Small",
+    "role": "Heavy Fighter",
+    "cargo": "0",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "ANVL"
+  },
+  "Idris-K": {
+    "name": "Idris-K",
+    "size": "Capital",
+    "role": "Frigate",
+    "cargo": "",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "AEGS"
+  },
+  "Idris-M": {
+    "name": "Idris-M",
+    "size": "Capital",
+    "role": "Frigate",
+    "cargo": "831",
+    "crewMin": "8",
+    "crewMax": "28",
+    "manufacturer": "AEGS"
+  },
+  "Idris-P": {
+    "name": "Idris-P",
+    "size": "Capital",
+    "role": "Frigate",
+    "cargo": "995",
+    "crewMin": "8",
+    "crewMax": "28",
+    "manufacturer": "AEGS"
+  },
+  "Javelin": {
+    "name": "Javelin",
+    "size": "Capital",
+    "role": "Destroyer",
+    "cargo": "5,400",
+    "crewMin": "12",
+    "crewMax": "80",
+    "manufacturer": "AEGS"
+  },
+  "Khartu-Al": {
+    "name": "Khartu-Al",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AOPA"
+  },
+  "Kingship": {
+    "name": "Kingship",
+    "size": "Capital",
+    "role": "Fleet Carrier",
+    "cargo": "",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "VNCL"
+  },
+  "Kraken": {
+    "name": "Kraken",
+    "size": "Capital",
+    "role": "Multi-Role - Light Carrier",
+    "cargo": "3,792",
+    "crewMin": "",
+    "crewMax": "10",
+    "manufacturer": "DRAK"
+  },
+  "Kraken Conversion Kit": {
+    "name": "Kraken Conversion Kit",
+    "size": "",
+    "role": "",
+    "cargo": "",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "DRAK"
+  },
+  "Kraken Privateer": {
+    "name": "Kraken Privateer",
+    "size": "Capital",
+    "role": "Multi-Role - Light Carrier",
+    "cargo": "768",
+    "crewMin": "",
+    "crewMax": "10",
+    "manufacturer": "DRAK"
+  },
+  "Legionnaire": {
+    "name": "Legionnaire",
+    "size": "Small",
+    "role": "Boarding ship",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "ANVL"
+  },
+  "Liberator": {
+    "name": "Liberator",
+    "size": "Large",
+    "role": "Transporter",
+    "cargo": "400",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "ANVL"
+  },
+  "M2 Hercules Starlifter": {
+    "name": "M2 Hercules Starlifter",
+    "size": "Large",
+    "role": "Transport Military",
+    "cargo": "522",
+    "crewMin": "",
+    "crewMax": "3",
+    "manufacturer": "CRSD"
+  },
+  "M50": {
+    "name": "M50",
+    "size": "Small",
+    "role": "Racing",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ORIG"
+  },
+  "MOLE": {
+    "name": "MOLE",
+    "size": "Medium",
+    "role": "Prospecting and Mining",
+    "cargo": "288 (24*12)",
+    "crewMin": "1",
+    "crewMax": "4",
+    "manufacturer": "ARGO"
+  },
+  "MOLE Carbon": {
+    "name": "MOLE Carbon",
+    "size": "Medium",
+    "role": "Prospecting and Mining",
+    "cargo": "288 (24*12)",
+    "crewMin": "1",
+    "crewMax": "4",
+    "manufacturer": "ARGO"
+  },
+  "MOLE Talus": {
+    "name": "MOLE Talus",
+    "size": "Medium",
+    "role": "Prospecting and Mining",
+    "cargo": "288 (24*12)",
+    "crewMin": "1",
+    "crewMax": "4",
+    "manufacturer": "ARGO"
+  },
+  "MPUV Cargo": {
+    "name": "MPUV Cargo",
+    "size": "Snub",
+    "role": "Light Freight",
+    "cargo": "2",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ARGO"
+  },
+  "MPUV Personnel": {
+    "name": "MPUV Personnel",
+    "size": "Snub",
+    "role": "Passenger",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ARGO"
+  },
+  "Mantis": {
+    "name": "Mantis",
+    "size": "Small",
+    "role": "Military;Stealth",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "RSI"
+  },
+  "Merchantman": {
+    "name": "Merchantman",
+    "size": "Capital",
+    "role": "Heavy Freight",
+    "cargo": "2,880",
+    "crewMin": "4",
+    "crewMax": "8",
+    "manufacturer": "SOUL"
+  },
+  "Mercury Star Runner": {
+    "name": "Mercury Star Runner",
+    "size": "Medium",
+    "role": "Medium Cargo;Medium Data",
+    "cargo": "114",
+    "crewMin": "2",
+    "crewMax": "3",
+    "manufacturer": "CRSD"
+  },
+  "Mustang Alpha": {
+    "name": "Mustang Alpha",
+    "size": "Small",
+    "role": "Cargo",
+    "cargo": "4",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "CNOU"
+  },
+  "Mustang Alpha Vindicator": {
+    "name": "Mustang Alpha Vindicator",
+    "size": "Small",
+    "role": "Starter;Light Freight",
+    "cargo": "4",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "CNOU"
+  },
+  "Mustang Beta": {
+    "name": "Mustang Beta",
+    "size": "Small",
+    "role": "Pathfinder",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "CNOU"
+  },
+  "Mustang Delta": {
+    "name": "Mustang Delta",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "CNOU"
+  },
+  "Mustang Gamma": {
+    "name": "Mustang Gamma",
+    "size": "Small",
+    "role": "Racing",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "CNOU"
+  },
+  "Mustang Omega": {
+    "name": "Mustang Omega",
+    "size": "Small",
+    "role": "Racing",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "CNOU"
+  },
+  "Nautilus": {
+    "name": "Nautilus",
+    "size": "Large",
+    "role": "Minelayer",
+    "cargo": "64",
+    "crewMin": "4",
+    "crewMax": "8",
+    "manufacturer": "AEGS"
+  },
+  "Nautilus Solstice": {
+    "name": "Nautilus Solstice",
+    "size": "Large",
+    "role": "Minelayer",
+    "cargo": "64",
+    "crewMin": "4",
+    "crewMax": "8",
+    "manufacturer": "AEGS"
+  },
+  "Nomad": {
+    "name": "Nomad",
+    "size": "Small",
+    "role": "Light Freight",
+    "cargo": "24",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "CNOU"
+  },
+  "Odyssey": {
+    "name": "Odyssey",
+    "size": "Large",
+    "role": "Expedition",
+    "cargo": "252",
+    "crewMin": "1",
+    "crewMax": "6",
+    "manufacturer": "MISC"
+  },
+  "Orion": {
+    "name": "Orion",
+    "size": "Capital",
+    "role": "Heavy Mining",
+    "cargo": "384",
+    "crewMin": "4",
+    "crewMax": "7",
+    "manufacturer": "RSI"
+  },
+  "P-52 Merlin": {
+    "name": "P-52 Merlin",
+    "size": "Snub",
+    "role": "Snub Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "KRIG"
+  },
+  "P-72 Archimedes": {
+    "name": "P-72 Archimedes",
+    "size": "Snub",
+    "role": "Racing",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "KRIG"
+  },
+  "P-72 Archimedes Emerald": {
+    "name": "P-72 Archimedes Emerald",
+    "size": "Snub",
+    "role": "Racing",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "KRIG"
+  },
+  "Pegasus": {
+    "name": "Pegasus",
+    "size": "Capital",
+    "role": "Escort Carrier",
+    "cargo": "",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "RSI"
+  },
+  "Perseus": {
+    "name": "Perseus",
+    "size": "Sub-capital",
+    "role": "Gun-Boat",
+    "cargo": "50",
+    "crewMin": "6",
+    "crewMax": "6",
+    "manufacturer": "RSI"
+  },
+  "Pirate Gladius": {
+    "name": "Pirate Gladius",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Prospector": {
+    "name": "Prospector",
+    "size": "Small",
+    "role": "Prospecting and Mining",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "MISC"
+  },
+  "Prowler": {
+    "name": "Prowler",
+    "size": "Medium",
+    "role": "Dropship",
+    "cargo": "0",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "ESRA"
+  },
+  "RAFT": {
+    "name": "RAFT",
+    "size": "Medium",
+    "role": "Medium Freight",
+    "cargo": "96 (3x32)",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "ARGO"
+  },
+  "Railen": {
+    "name": "Railen",
+    "size": "Medium",
+    "role": "Cargo",
+    "cargo": "320",
+    "crewMin": "",
+    "crewMax": "4",
+    "manufacturer": "GAMA"
+  },
+  "Razor": {
+    "name": "Razor",
+    "size": "Small",
+    "role": "Racing",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "MISC"
+  },
+  "Razor EX": {
+    "name": "Razor EX",
+    "size": "Small",
+    "role": "Stealth",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "MISC"
+  },
+  "Razor LX": {
+    "name": "Razor LX",
+    "size": "Small",
+    "role": "Luxury",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "MISC"
+  },
+  "Reclaimer": {
+    "name": "Reclaimer",
+    "size": "Large",
+    "role": "Heavy Salvage",
+    "cargo": "180",
+    "crewMin": "4",
+    "crewMax": "5",
+    "manufacturer": "AEGS"
+  },
+  "Reclaimer Best In Show Edition": {
+    "name": "Reclaimer Best In Show Edition",
+    "size": "Large",
+    "role": "Heavy Salvage",
+    "cargo": "180",
+    "crewMin": "4",
+    "crewMax": "5",
+    "manufacturer": "AEGS"
+  },
+  "Redeemer": {
+    "name": "Redeemer",
+    "size": "Medium",
+    "role": "Gunship",
+    "cargo": "2",
+    "crewMin": "3",
+    "crewMax": "4",
+    "manufacturer": "AEGS"
+  },
+  "Reliant Kore": {
+    "name": "Reliant Kore",
+    "size": "Small",
+    "role": "Starter;Light Freight",
+    "cargo": "6",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "MISC"
+  },
+  "Reliant Mako": {
+    "name": "Reliant Mako",
+    "size": "Small",
+    "role": "Reporting",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "MISC"
+  },
+  "Reliant Sen": {
+    "name": "Reliant Sen",
+    "size": "Small",
+    "role": "Light Science",
+    "cargo": "2",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "MISC"
+  },
+  "Reliant Tana": {
+    "name": "Reliant Tana",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "1",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "MISC"
+  },
+  "Retaliator Base": {
+    "name": "Retaliator Base",
+    "size": "Large",
+    "role": "Heavy Bomber",
+    "cargo": "0",
+    "crewMin": "4",
+    "crewMax": "7",
+    "manufacturer": "AEGS"
+  },
+  "Retaliator Bomber": {
+    "name": "Retaliator Bomber",
+    "size": "Large",
+    "role": "Heavy Bomber",
+    "cargo": "0",
+    "crewMin": "4",
+    "crewMax": "7",
+    "manufacturer": "AEGS"
+  },
+  "SRV": {
+    "name": "SRV",
+    "size": "Small",
+    "role": "Industrial;Civilian",
+    "cargo": "10",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ARGO"
+  },
+  "Sabre": {
+    "name": "Sabre",
+    "size": "Small",
+    "role": "Stealth Fighter/medium fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Sabre Comet": {
+    "name": "Sabre Comet",
+    "size": "Small",
+    "role": "Stealth Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Sabre Firebird": {
+    "name": "Sabre Firebird",
+    "size": "Small",
+    "role": "Medium Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "Sabre Raven": {
+    "name": "Sabre Raven",
+    "size": "Small",
+    "role": "Interdiction",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AEGS"
+  },
+  "San'tok.yāi": {
+    "name": "San'tok.yāi",
+    "size": "Medium",
+    "role": "Medium Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "AOPA"
+  },
+  "Scorpius": {
+    "name": "Scorpius",
+    "size": "Small",
+    "role": "Heavy Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "RSI"
+  },
+  "Scorpius Antares": {
+    "name": "Scorpius Antares",
+    "size": "Small",
+    "role": "Heavy Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "2",
+    "manufacturer": "RSI"
+  },
+  "Scythe": {
+    "name": "Scythe",
+    "size": "Small",
+    "role": "Medium Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "[[Vanduul Clans (originally)\nEsperia (human conversion)]]"
+  },
+  "Scythe (vanduul)": {
+    "name": "Scythe (vanduul)",
+    "size": "Small",
+    "role": "Medium Fighter",
+    "cargo": "",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "VNCL"
+  },
+  "Starfarer": {
+    "name": "Starfarer",
+    "size": "Large",
+    "role": "Heavy Refuelling",
+    "cargo": "291",
+    "crewMin": "4",
+    "crewMax": "8",
+    "manufacturer": "MISC"
+  },
+  "Starfarer Gemini": {
+    "name": "Starfarer Gemini",
+    "size": "Large",
+    "role": "Heavy Refuelling",
+    "cargo": "291",
+    "crewMin": "4",
+    "crewMax": "6",
+    "manufacturer": "MISC"
+  },
+  "Talon": {
+    "name": "Talon",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ESRA"
+  },
+  "Talon Shrike": {
+    "name": "Talon Shrike",
+    "size": "Small",
+    "role": "Light Fighter",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ESRA"
+  },
+  "Terrapin": {
+    "name": "Terrapin",
+    "size": "Small",
+    "role": "Pathfinder",
+    "cargo": "0",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "ANVL"
+  },
+  "Valkyrie": {
+    "name": "Valkyrie",
+    "size": "Small",
+    "role": "Military;Industrial",
+    "cargo": "30",
+    "crewMin": "",
+    "crewMax": "5",
+    "manufacturer": "ANVL"
+  },
+  "Valkyrie Best in Show 2950 Edition": {
+    "name": "Valkyrie Best in Show 2950 Edition",
+    "size": "Small",
+    "role": "Military;Industrial",
+    "cargo": "30",
+    "crewMin": "",
+    "crewMax": "5",
+    "manufacturer": "ANVL"
+  },
+  "Valkyrie Liberator Edition": {
+    "name": "Valkyrie Liberator Edition",
+    "size": "Small",
+    "role": "Military;Industrial",
+    "cargo": "30",
+    "crewMin": "",
+    "crewMax": "5",
+    "manufacturer": "ANVL"
+  },
+  "Vanguard Harbinger": {
+    "name": "Vanguard Harbinger",
+    "size": "Medium",
+    "role": "Bomber",
+    "cargo": "0",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "AEGS"
+  },
+  "Vanguard Hoplite": {
+    "name": "Vanguard Hoplite",
+    "size": "Medium",
+    "role": "Dropship",
+    "cargo": "0",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "AEGS"
+  },
+  "Vanguard Sentinel": {
+    "name": "Vanguard Sentinel",
+    "size": "Medium",
+    "role": "Interdiction",
+    "cargo": "0",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "AEGS"
+  },
+  "Vanguard Warden": {
+    "name": "Vanguard Warden",
+    "size": "Medium",
+    "role": "Heavy Fighter",
+    "cargo": "0",
+    "crewMin": "2",
+    "crewMax": "2",
+    "manufacturer": "AEGS"
+  },
+  "Void": {
+    "name": "Void",
+    "size": "",
+    "role": "Heavy Bomber",
+    "cargo": "",
+    "crewMin": "",
+    "crewMax": "",
+    "manufacturer": "VNCL"
+  },
+  "Vulcan": {
+    "name": "Vulcan",
+    "size": "Medium",
+    "role": "Medium Repair;Medium Refuel",
+    "cargo": "12",
+    "crewMin": "1",
+    "crewMax": "3",
+    "manufacturer": "AEGS"
+  },
+  "Vulture": {
+    "name": "Vulture",
+    "size": "Small",
+    "role": "Light Salvage",
+    "cargo": "12",
+    "crewMin": "1",
+    "crewMax": "1",
+    "manufacturer": "DRAK"
+  }
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      margin: 0; padding: 10px;
+      background: rgba(0,0,0,0.7);
+      color: white;
+      font-family: sans-serif;
+      width: 360px;
+    }
+    #box {
+      border: 2px solid #00aaff;
+      border-radius: 8px;
+      padding: 10px;
+    }
+    .label { font-weight: bold; }
+    .row { margin-bottom: 4px; }
+  </style>
+</head>
+<body>
+  <div id="box">
+    <h2 id="name">No Ship Selected</h2>
+    <div class="row"><span class="label">Manufacturer:</span> <span id="manufacturer">-</span></div>
+    <div class="row"><span class="label">Role:</span> <span id="role">-</span></div>
+    <div class="row"><span class="label">Size:</span> <span id="size">-</span></div>
+    <div class="row"><span class="label">Pledge:</span> <span id="pledge">-</span></div>
+    <div class="row"><span class="label">Avg Purchase:</span> <span id="average">-</span></div>
+    <div class="row"><span class="label">Crew:</span> <span id="crew">-</span></div>
+    <div class="row"><span class="label">Cargo:</span> <span id="cargo">-</span></div>
+    <div class="row"><span class="label">Max Speed:</span> <span id="speed">-</span></div>
+  </div>
+
+  <script>
+    const ws = new WebSocket('ws://localhost:3000');
+    ws.onmessage = (e) => {
+      const data = JSON.parse(e.data);
+      document.getElementById('name').textContent = data.name;
+      document.getElementById('manufacturer').textContent = data.manufacturer;
+      document.getElementById('role').textContent = data.role;
+      document.getElementById('size').textContent = data.size;
+      document.getElementById('pledge').textContent = data.pledge;
+      document.getElementById('average').textContent = data.average;
+      document.getElementById('crew').textContent = data.crew;
+      document.getElementById('cargo').textContent = data.cargo;
+      document.getElementById('speed').textContent = data.speed;
+    };
+  </script>
+</body>
+</html>
